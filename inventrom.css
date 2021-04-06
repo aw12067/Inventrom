@@ -1,0 +1,158 @@
+body
+{
+	margin: 0px;
+	background-color:#f2f2f2;
+	font-family: "Verdana";
+}
+.nav
+{	
+	left: 0px;
+	right: 0px;
+	height: 100px;
+	width: 100%;
+	background-color: #d9d9d9;
+	
+}
+.logo
+{	
+	float: left;
+	text-align: center;
+	margin: 20px;
+	height: 100%;
+	margin-left: 20px;
+}
+.links
+{	
+	padding-right: 30px;
+	float: right;
+	margin: 30px 20px 20px 20px;
+}
+.links a
+{
+	text-decoration: none;
+	margin-right:20px; 
+	color: #0a0a0a;
+	padding: 10px;
+}
+.img-text
+{
+	margin-top: 0px;
+	background-image: url('images/background-layer.png');
+	background-repeat: no-repeat;
+	height: 392px;
+	text-align: center;	
+}
+.text
+{	
+	padding-left: 480px;
+	color: white;
+	position: absolute;
+	top: 40%;
+}
+.About-us 
+{
+	top: 30px;
+	position: relative;
+	text-align: center;
+	color: #139139;
+}
+.About-us p
+{
+	color: black;
+}
+.card
+{	
+	width: 50%;
+	text-align: center;
+}
+.card-content
+{
+	color: black;
+	margin-left:65px;
+	text-align: left;
+}
+.Awards 
+{
+	top: 50px;
+	position: relative;
+	text-align: center;
+	color: #139139;
+	border: 1px
+}
+.award-content
+{
+	float: left;
+	width: 25%;
+	text-align: center;
+}
+.divide
+{
+	color: black;
+}
+hr
+{
+	width: 30%;
+	text-align: center;
+}
+.contact
+{
+	top: 80px;
+	position: relative;
+	text-align: center;
+	color: #139139;
+}
+.form
+{
+	float: left;
+	width: 45%;
+	padding-left: 50px;
+}
+.details
+{
+	color: black;
+	padding-left: 0px;
+	float: left;
+	width: 50%;
+	text-align: left;
+}
+.footer
+{
+	background-color: #139139;
+	position: absolute;
+	height: 100px;
+	bottom: -1800px;
+	width: 100%;
+	padding-top: 20px;
+}
+.copyright
+{
+	float: left;
+	text-align: center;
+	width: 50%;
+	color: white;
+}
+.social_media
+{
+	float: left;
+	text-align: center;
+	width: 50%;
+}
+.social_media a
+{
+	padding-left: 20px;
+}
+.fa {
+  text-decoration: none;
+}
+.fa-facebook
+{
+	color: white;
+}
+.fa-twitter
+{
+	color: white;
+}
+.fa-instagram
+{
+	color: white;
+}
